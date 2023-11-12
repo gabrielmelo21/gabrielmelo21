@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="60">
 </div>
 <hr>
-<div style='display:flex;justify-content:center;'>
+<div>
 <a href="https://github.com/gabrielmelo21">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelo21&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmelo21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
